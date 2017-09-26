@@ -1,3 +1,26 @@
 body {
 	background-color: lightgray;
+	transition: 200000ms;
+}
+
+/*.wut{
+	background-color:forestgreen;
+	transition: 2000ms;
+}
+
+.wut2{
+	background-color:firebrick;
+	transition: 2000ms;
+}
+.wut3{
+	background-color:aquamarine;
+	transition: 2000ms;
+}*/
+
+fieldset{
+	display: inline-block;
+}
+
+div{
+	color: red;
 }
