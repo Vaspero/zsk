@@ -1,8 +1,3 @@
-body {
-	background-color: lightgray;
-	transition: 200000ms;
-}
-
 /*.wut{
 	background-color:forestgreen;
 	transition: 2000ms;
@@ -21,6 +16,6 @@ fieldset{
 	display: inline-block;
 }
 
-div{
+#block{
 	color: red;
 }
